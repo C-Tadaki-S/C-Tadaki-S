@@ -1,4 +1,6 @@
-### Welcome! Tadaki`s here 👋
+font-family: "Exo"
+
+### Welcome! Tadaki is here 👋
 
 ![Alt text](https://github.com/C-Tadaki-S/C-Tadaki-S/blob/main/BannerTadaki.png)
 
