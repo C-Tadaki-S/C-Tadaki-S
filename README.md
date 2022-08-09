@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome! Tadaki`s here 👋
 
 ![Alt text](https://github.com/C-Tadaki-S/C-Tadaki-S/blob/main/BannerTadaki.png)
 
