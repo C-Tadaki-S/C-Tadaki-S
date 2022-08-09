@@ -6,7 +6,10 @@
 ###  Hello! My name is Celso Tadaki and I am currently a Computer Engineering student at the University of São Paulo, also a member of ARGO - Inovation in Healthcare!🖥️ 
 
 ------------
- ## Projects:
+ ## Projects & Organizations:
+ - ### Intelifreeze
+ - ### ARGO
+ - ### AgroPoli
 
  ## My interests
  
