@@ -6,6 +6,7 @@
 ###  Hello! My name is Celso Tadaki and I am currently a Computer Engineering student at the University of São Paulo, also a team member of ARGO - Inovation in healthcare.🖥️ 
 
 ------------
+ ## Projects:
 
  ## My interests
  
@@ -15,21 +16,12 @@
  - ### Web Development FULL STACK;
 
 ## Proggraming Languages of interest:
+- ### C
+- ### JS
+- ### Python
 
-##
-
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Talk with me about:
+- ### Interesting projects;
+- ### New Tech to learn;
+- ### ANIME!;
+- ### RPG;
