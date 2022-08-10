@@ -1,4 +1,4 @@
-font-family: "Exo"
+
 
 ### Welcome! Tadaki is here 👋
 
