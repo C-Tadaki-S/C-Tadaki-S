@@ -5,7 +5,7 @@
 ![Alt text](https://github.com/C-Tadaki-S/C-Tadaki-S/blob/main/BannerTadaki.png)
 
 
-###  Hello! My name is Celso Tadaki and I am currently a Computer Engineering student at the University of São Paulo, also a member of ARGO - Inovation in Healthcare!🖥️ 
+###  Hello! My name is Celso Tadaki and I am currently a Computer Engineering student at the University of São Paulo, I am the cofounder of Agropoli and also a member of ARGO - Inovation in Healthcare!🖥️ 
 
 ------------
  ## Projects & Organizations:
