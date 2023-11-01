@@ -9,14 +9,17 @@ I'm Celso Tadaki, a Computer Engineering student at the University of São Paulo
 - 👨‍🎓 Student at the University of São Paulo
 - 🚀 Co-founder of Agropoli
 - 💡 Member of ARGO - Innovation in Healthcare
+- 🎲 Member of Poli Jr - Data Analytics Trainee
 
 ## Projects & Organizations
 I've been involved in various exciting projects and organizations:
 
-- 🌐 **Intelifreeze**: Brief description.
-- 🏥 **ARGO**: Explain what ARGO is and its mission.
-- 🌱 **AgroPoli**: Describe the goals and achievements of AgroPoli.
-- 💻 **RISC V**: Share your contributions or involvement with RISC V.
+- 🌐 **Intelifreeze**: An mobile aplication intended to adress the issue of food waste.
+- 🏥 **ARGO**: ARGO is a group with the mission to improve the health quality with technology.
+- 🌱 **AgroPoli**:  AgroPoli is a group created for popularizing agriculture in the Polytechnic School and developing technology to innovate in the agriculture industry.
+- 💻 **RISC V**:  Development of as RISC V processor "from scrap" using Verilog.
+- 🧰 **Structure Stress Calculator**: Development of a program simillar to the Ftool, but simpler, for the discipline of PEF 3100 - an introduction of material strucure.
+- 📹 **RedTube**: Development of a website connected to the Youtube API - project invested to be a crash course on learning code design patterns, and object oriented coding. 
 
 ## My Interests
 I'm passionate about various topics, including:
