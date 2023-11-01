@@ -51,12 +51,6 @@ My favorite programming languages are:
 
 
 
-
-
-
-
-
-
 ## Let's Talk!
 Feel free to reach out to me for a chat about:
 
