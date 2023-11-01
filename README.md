@@ -49,8 +49,6 @@ My favorite programming languages are:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c-tadaki-s&show_icons=true&locale=en" alt="c-tadaki-s" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=c-tadaki-s&" alt="c-tadaki-s" /></p>
-
 
 
 ## Let's Talk!
