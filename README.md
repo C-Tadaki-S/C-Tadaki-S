@@ -1,7 +1,7 @@
 
 # Welcome! I'm Celso Tadaki 👋
 
-![Banner](https://github.com/C-Tadaki-S/C-Tadaki-S/blob/main/Meu-banner2.png)
+![Banner](https://github.com/C-Tadaki-S/C-Tadaki-S/blob/main/banner.png)
 
 ## About Me
 I'm Celso Tadaki, a Computer Engineering student at the University of São Paulo. I'm passionate about technology and innovation. Here's a little about me:
