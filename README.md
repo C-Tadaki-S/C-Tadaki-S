@@ -19,7 +19,7 @@ I've been involved in various exciting projects and organizations:
 - 🌱 **AgroPoli**:  AgroPoli is a group created for popularizing agriculture in the Polytechnic School and developing technology to innovate in the agriculture industry.
 - 💻 **RISC V**:  Development of as RISC V processor "from scrap" using Verilog.
 - 🧰 **Structure Stress Calculator**: Development of a program simillar to the Ftool, but simpler, for the discipline of PEF 3100 - an introduction of material strucure.
-- 📹 **RedTube**: Development of a website connected to the Youtube API - project invested to be a crash course on learning code design patterns, and object oriented coding. 
+- 📹 **RedPlay**: Development of a website connected to the Youtube API - project invested to be a crash course on learning code design patterns, and object oriented coding. 
 
 ## My Interests
 I'm passionate about various topics, including:
